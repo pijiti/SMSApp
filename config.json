@@ -7,10 +7,10 @@
 	"PASSWORD" : "mission"		 ,
 	"STATIONS" : [56,57,58,59,60,61,62]		 ,
 	"EVENT"    : "shareACoke",
-	"COMPAIGN_CODE" : "SAF1",
+	"COMPAIGN_CODE" : "SAF",
 	"SUCCESS_MESSAGE" : "Process Has been completed successfully" ,
 	"FAILURE_MESSAGE" : "The message does not meet specifications" ,
-	"WEBHOOK_SECRET" : "Q4AH9QUGF3DA26AF2P2M6HXF4KU2KNGE",
+	"WEBHOOK_SECRET" : "PZE3NCFDM464TRQ4RUEUKT4MWT9U7RKX",
 	"TELERIVET_API_KEY" : "",
 	"DB_URI":"mongodb://root:U1299526@ds059185.mongolab.com:59185/sms_service"
 }
